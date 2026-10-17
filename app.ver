@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "versionCode": 110,
-  "versionName": "1.10.67",
-  "apkUrl": "https://raw.githubusercontent.com/mkshtofficial/BeedeokeHive-Android-Windows/releases/download/110/BeedeokeHive_v110.apk",
+  "versionCode": 120,
+  "versionName": "1.20.32",
+  "apkUrl": "",
   "changelog": "test changelog",
   "forceUpdate": true
 }
