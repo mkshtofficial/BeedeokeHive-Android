@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "versionCode": 120,
-  "versionName": "1.20.32",
+  "versionCode": 121,
+  "versionName": "1.21.00",
   "apkUrl": "",
-  "changelog": "test changelog",
+  "changelog": "Choose a resources folder or use app storage, with resource downloads available from the missing-resources prompt\n-Favorite Songs on the main menu, with heart buttons.\n-Left, center, and right search-panel positions for landscape playback.\n-Portrait search and reserved lists use the keypad area to keep the player visible above\n-Background Media Player playback: pressing Home keeps playback running, with notification controls for play/pause, previous, next, and Stop.\n-Automatic next: the Media Player advances to the next file and stops after the last one.\nPicture-in-Picture for Media Player videos and KTV, with playback-focused layouts for the floating window.",
   "forceUpdate": true
 }
