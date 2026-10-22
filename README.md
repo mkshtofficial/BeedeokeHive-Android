@@ -6,9 +6,9 @@
 
 **Make Karaoke Singers Hit Tunes**
 
-Your karaoke library, music, videos, and recordings in one place.
+Your karaoke library, live microphone, music, videos, and recordings in one place.
 
-**Android 10+ · Phones & tablets · Android/Smart TV remote navigation**
+**Android 10+ · Phones & tablets · Android TV remote navigation**
 
 </div>
 
@@ -36,6 +36,18 @@ Beedeoke Hive brings karaoke playback, song search, reservations, and personal m
 - View filenames and durations, seek, use previous/next, and switch between Fit and Zoom.
 - Automatically continue to the next file and stop at the end of the playlist.
 - Keep Media Player audio playing after pressing Home, with notification playback controls.
+
+### Live microphone (Wired Earphones/Mic)
+
+Sing along in KTV using the device microphone or a compatible Beedeoke SmartLink microphone on the same local network.
+
+Open **Settings → Audio → MICROPHONE**:
+
+- **Microphone Source:** choose **Smart Link Mic Only**, **Device Mic Only**, or **Use Both**. The default source is Smart Link.
+- **Microphone Stream:** choose **Disabled**, **Enabled with Standby** (active while a song is playing), or **Enable (Always On)** (also active while KTV is idle). Streaming is disabled by default.
+- Adjust **Mic Volume**, **Echo**, **Reverb**, **Delay**, **Clarity**, and **Sensitivity (threshold)**.
+
+For the device microphone, select **Device Mic Only** or **Use Both**, enable streaming, and allow microphone access when prompted. For SmartLink, connect the compatible controller and use its microphone feature.
 
 ### Picture-in-Picture
 
@@ -139,6 +151,8 @@ TV storage access, folder pickers, and PiP availability vary by Android version 
 **Cannot select the internal-storage root:** choose or create a subfolder such as `BeedeokeHive` instead.
 
 **No MIDI instruments:** select a valid `.sf2` SoundFont and check playback volume.
+
+**No microphone audio:** check the selected microphone source, enable Microphone Stream, and check Mic Volume. Allow microphone access for the device mic, or check the SmartLink connection for a remote mic. In standby mode, start a song first. Lower the sensitivity threshold if quiet singing is being cut off.
 
 **PiP does not open:** enable the setting, start playback, and check whether the device supports and allows Picture-in-Picture for Beedeoke Hive.
 
