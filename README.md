@@ -8,7 +8,7 @@
 
 Your karaoke library, live microphone, music, videos, and recordings in one place.
 
-**Android 10+ · Phones & tablets · Android TV remote navigation**
+**Android 10+ · Phones & tablets · Android/Smart TV remote navigation**
 
 </div>
 
