@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "versionCode": 122,
-  "versionName": "1.22.03",
-  "apkUrl": "https://github.com/mkshtofficial/BeedeokeHive-Android/releases/download/1.22.03/BeedeokeHive-v1.22.03-122.apk",
-  "changelog": "● Fixed SoundFont switching, hidden-keypad behavior, and duplicate Recents cards.\n● Custom stacked or individual countdown images support countdown_4.png through countdown_0.png and countdown.zip.\n● Score and Typing Sound settings now include custom fanfares using scores.zip and number_0.mp3 through number_9.mp3 using typingsound.zip.\n● Loose custom assets take priority over ZIP entries, with built-in fallback for missing or unreadable files.\n● Custom fanfares stop after a maximum of 15 seconds; typing sounds have no fixed duration limit.\n● Added MP4, MKV, and AVI video support, plus MP3, WAV, and WMA audio support, subject to device codecs.",
+  "versionCode": 123,
+  "versionName": "1.23.15",
+  "apkUrl": "https://github.com/mkshtofficial/BeedeokeHive-Android/releases/download/1.23.15/BeedeokeHive-v1.23.15-123.apk",
+  "changelog": "● Added SmartLink Web Remote: control Hive from a browser on the same local network without installing a remote app.\n● Playback controls, six-digit song entry, live title and singer previews, song and artist search, browser favorites, and reservation management.\n● SmartLink-style synchronized lyrics with countdowns, fullscreen, and customizable appearance.\n● Organized web settings into Playback, Lyrics Layout, Text Style, and Background sections.",
   "forceUpdate": true
 }
