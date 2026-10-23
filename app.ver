@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "versionCode": 121,
-  "versionName": "1.21.00",
-  "apkUrl": "https://github.com/mkshtofficial/BeedeokeHive-Android/releases/download/1.21.00/BeedeokeHive-v1.21.00-121.apk",
-  "changelog": "● Choose a resources folder or use app storage, with resource downloads available from the missing-resources prompt\n● Favorite Songs on the main menu, with heart buttons.\n● Left, center, and right search-panel positions for landscape playback.\n● Portrait search and reserved lists use the keypad area to keep the player visible above\n● Background Media Player playback: pressing Home keeps playback running, with notification controls for play/pause, previous, next, and Stop.\n● Automatic next: the Media Player advances to the next file and stops after the last one.\n● Picture-in-Picture for Media Player videos and KTV, with playback-focused layouts for the floating window.",
+  "versionCode": 122,
+  "versionName": "1.22.03",
+  "apkUrl": "https://github.com/mkshtofficial/BeedeokeHive-Android/releases/download/1.22.03/BeedeokeHive-v1.22.03-122.apk",
+  "changelog": "● Fixed SoundFont switching, hidden-keypad behavior, and duplicate Recents cards.\n● Custom stacked or individual countdown images support countdown_4.png through countdown_0.png and countdown.zip.\n● Score and Typing Sound settings now include custom fanfares using scores.zip and number_0.mp3 through number_9.mp3 using typingsound.zip.\n● Loose custom assets take priority over ZIP entries, with built-in fallback for missing or unreadable files.\n● Custom fanfares stop after a maximum of 15 seconds; typing sounds have no fixed duration limit.\n● Added MP4, MKV, and AVI video support, plus MP3, WAV, and WMA audio support, subject to device codecs.",
   "forceUpdate": true
 }
