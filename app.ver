@@ -2,7 +2,7 @@
   "version": 1,
   "versionCode": 124,
   "versionName": "1.24.00",
-  "apkUrl": "https://github.com/mkshtofficial/BeedeokeHive-Android/releases/download/1.23.15/BeedeokeHive-v1.23.15-123.apk",
+  "apkUrl": "https://github.com/mkshtofficial/BeedeokeHive-Android/releases/download/1.24.00/BeedeokeHive-v1.24.00-124.apk",
   "changelog": "● Added SmartLink Web Remote: control Hive from a browser on the same local network without installing a remote app.\n● Playback controls, six-digit song entry, live title and singer previews, song and artist search, browser favorites, and reservation management.\n● SmartLink-style synchronized lyrics with countdowns, fullscreen, and customizable appearance.\n● Organized web settings into Playback, Lyrics Layout, Text Style, and Background sections.",
   "forceUpdate": true
 }
